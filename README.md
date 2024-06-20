@@ -5,4 +5,4 @@
 
 - [x] Clone the Project 
 - [x] Open the project through VSCode
-- [x] Run command "php -S localhost:8888"
+- [x] Run command <code>php -S localhost:8888</code>
